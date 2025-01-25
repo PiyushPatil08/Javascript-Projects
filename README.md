@@ -19,13 +19,16 @@ Each project is organized into separate folders with self-contained files for ea
 
 ## Projects
 
-| Project Name       | Description                                        | Folder Name         |
-|--------------------|----------------------------------------------------|---------------------|
-| **Project 1**      | Short description of project 1.                   | `project1-folder`   |
-| **Project 2**      | Short description of project 2.                   | `project2-folder`   |
-| **Project 3**      | Short description of project 3.                   | `project3-folder`   |
-
-*(Replace with actual project names and details.)*
+| Project Name             | Description                                      | 
+|--------------------------|--------------------------------------------------|
+| **Clock Using HTML, CSS & JS** | A stylish digital clock that displays real-time hours, minutes, and seconds, with smooth transitions and a responsive design.   | 
+| **Currency Converter**   | A tool to convert between different currencies using real-time exchange rate data fetched via an API.   |
+| **Quiz App**         | An interactive quiz application where users can answer multiple-choice questions as per selected category and receive instant feedback with scores.   | 
+| **Password Generator**   | A feature-rich password generator that allows users to create strong and customizable passwords based on their preferences.   |
+| **Rock-Paper-Scissor**   | A fun recreation of the classic Rock-Paper-Scissors game where players compete against the computer.   | 
+| **Snake Game**           | The classic Snake game brought to life with smooth animations and increasing difficulty as the snake grows.   | 
+| **Tic Tac Toe Game**     | A modern implementation of Tic Tac Toe with a responsive interface and logic to handle winning or draw conditions.   | 
+| **Weather API**          | A weather app that fetches real-time weather data for any location, including temperature, humidity, and conditions.   | 
 
 ---
 
@@ -34,3 +37,5 @@ Each project is organized into separate folders with self-contained files for ea
 1. Navigate to the folder of the project you want to explore.
 2. Open the `index.html` file in your browser to view the project.
 3. Explore and modify the code to learn and experiment!
+
+---
