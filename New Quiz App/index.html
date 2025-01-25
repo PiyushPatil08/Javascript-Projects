@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <header class="header">
+            <h1 class="app-title">Ultimate Quiz Challenge</h1>
+        </header>
+        <div class="category">
+            <p class="category-title">Select a category to get started:</p>
+            <select id="category-select">
+                <option value="general">General Knowledge</option>
+                <option value="science">Science</option>
+                <option value="sports">Sports</option>
+                <option value="history">History</option>
+                <option value="technology">Technology</option>
+            </select>
+            <button id="start-btn">Start Quiz</button>
+        </div>
+        <div class="quiz" style="display: none;">
+            <div class="question-container">
+                <h2 id="que" class="question">Question</h2>
+            </div>
+            <div id="ans-buttons" class="answers"></div>
+            <button id="next-btn" class="btn next-btn">Next</button>
+        </div>
+    </div>
+    <footer class="footer">
+        <p>Designed with ❤️ by Piyush Patil | © 2025</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
